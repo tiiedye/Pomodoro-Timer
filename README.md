@@ -1,2 +1,2 @@
 # Pomodoro-Timer
-Pomodoro timer made with tkinter, turtle, and python
+Pomodoro timer made with tkinter and python
